@@ -8,7 +8,7 @@ void insert_pos(int ele);
  void delete_beg();
  void delete_end();
  void delete_pos();
- void display();
+void display();
  struct node
  {
  int data;
